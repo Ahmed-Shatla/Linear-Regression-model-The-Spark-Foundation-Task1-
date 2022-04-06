@@ -1,2 +1,1 @@
-# Linear-Regression
-Task1 the sparks foundation
+# Linear-Regression-model (The Spark Foundation Task1)
